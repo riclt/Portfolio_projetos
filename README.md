@@ -23,5 +23,6 @@ Sou formado em Engenharia Civil com MBA em Executivo Comercial e Vendas e trabal
 ## Projetos:
 Veja os tutoriais publicados:
 
+* Insights nos Dados com Biblioteca SweetViz: http://bitly.ws/vc2a
 * Descobrindo o Pandas: https://bityli.com/WHADQTa
 
